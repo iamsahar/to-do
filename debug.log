@@ -1,0 +1,5 @@
+2020-07-06 09:23:29,052 [none] django.utils.autoreload INFO     Watching for file changes with StatReloader
+2020-07-06 09:23:34,925 [none] django.request WARNING  Not Found: /manifest.json
+2020-07-06 09:23:34,927 [none] django.request WARNING  Not Found: /favicon.ico
+2020-07-06 09:28:01,359 [none] asyncio      DEBUG    Using proactor: IocpProactor
+2020-07-06 09:28:01,439 [none] asyncio      DEBUG    Using proactor: IocpProactor
