@@ -65,3 +65,7 @@ Traceback (most recent call last):
   File "C:\Python38\lib\site-packages\django\template\loader.py", line 47, in select_template
     raise TemplateDoesNotExist(', '.join(template_name_list), chain=chain)
 django.template.exceptions.TemplateDoesNotExist: index.html
+2020-07-22 15:36:24,774 [none] django.utils.autoreload INFO     Watching for file changes with StatReloader
+2020-07-22 15:36:28,748 [none] django.request WARNING  Not Found: /manifest.json
+2020-07-22 15:36:35,415 [none] asyncio      DEBUG    Using proactor: IocpProactor
+2020-07-22 15:36:35,487 [none] asyncio      DEBUG    Using proactor: IocpProactor
